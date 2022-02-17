@@ -1,0 +1,24 @@
+---
+- myStudents:  
+  - name: adi
+    phno: 666666666
+    address: 
+       doorno: 1
+       streatNO: 2
+       pincode:  555555
+
+  - name:  ganaga
+    phno: 77777777777
+    address: 
+      doorno: 1
+      streatNO: 2
+      pincode:  555555
+
+  
+  - name: janani
+    phno: 8888888888
+    address: 
+         doorno: 1
+         streatNO: 2
+         pincode:  555555
+
